@@ -1,0 +1,6 @@
+{
+  "appId": "com.osmosis.whiteboard.studio",
+  "appName": "Osmosis Studio Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
